@@ -1,2 +1,2 @@
 # DEMO 2
-this is awesome
+this is awesome git is awesome 
